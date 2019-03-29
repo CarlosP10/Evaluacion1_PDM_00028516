@@ -2,4 +2,5 @@
 <resources>
     <dimen name="padding_base">8dp</dimen>
     <dimen name="normal_dp">20dp</dimen>
+    <dimen name="little_margin">4dp</dimen>
 </resources>
